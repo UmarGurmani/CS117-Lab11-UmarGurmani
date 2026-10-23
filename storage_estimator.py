@@ -1,3 +1,3 @@
-storage gb = float(input("Enter storage in GB :"))
-storage mb - storage gb*1024
-print("Storage in MB: ", storage mb)
+storage_gb = float(input("Enter storage in GB "))
+storage_mb = storage_gb*1024
+print("Storage in MB is :", storage_mb)
