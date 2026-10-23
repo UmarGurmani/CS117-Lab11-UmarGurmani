@@ -1,5 +1,4 @@
-# Storage Estimator - Main Version
-
+# Storage Estimator - Final Version
 Purpose
 
 This program converts a storage size from gigabytes (GB) to megabytes (MB). It was written for CS-117 Introduction to ICT (Lab 10) and is now tracked with Git and GitHub as part of Lab 11.
